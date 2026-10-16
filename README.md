@@ -16,9 +16,8 @@ The main hardware components of a desktop PC are:
 6. SSD: Stores data and loads applications faster.
 7. PSU: Supplies electrical power to computer components.
 
-My labeled desktop PC diagram is uploaded in this repository.
-
-## Task 2: HDD vs SSD Comparison
+My labeled desktop PC diagram is uploaded in this repository.                          
+ ![Desktop PC Hardware Diagram](./file_000000007c348208b7fa1c09134b0133.png)                                         ## Task 2: HDD vs SSD Comparison
 
 | Feature | HDD | SSD |
 |---|---|---|
