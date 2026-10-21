@@ -1,4 +1,4 @@
-# PC-Hardware-Assignment
+
 # PC-Hardware-Assignment
 
 ## Introduction
