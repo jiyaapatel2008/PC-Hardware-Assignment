@@ -24,7 +24,7 @@ Evidence: Attach a screenshot of System Information.
 Task 1: System Information Evidence (MacBook)
 
 I am using a MacBook Pro instead of a Windows laptop or PC.
-
+![MacBook System Information](IMG_0066.jpeg)
 * Operating System: macOS Sequoia 15.3
 * Processor: Apple M3
 * Installed RAM: 16 GB
