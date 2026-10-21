@@ -30,7 +30,8 @@ Main internal components and their functions
 7. Secondary Rectifier and Filter: Converts the transformer’s high-frequency output into smooth DC.
 8. Regulation and Protection Circuit: Maintains stable output voltages and helps protect against electrical faults.
 9. DC Output: Supplies regulated +12 V, +5 V and +3.3 V outputs, as required by the PC components.
-
+! [SMPS Internal Components]
+(SMPS - Internal - Components.png)
 Block diagram
 
         AC MAINS INPUT
