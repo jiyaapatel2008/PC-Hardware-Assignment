@@ -30,7 +30,7 @@ Printers produce hard copies of documents, scanners convert physical documents i
                   |
                   v
            Printed Document
-b3bb0b69-acba-4ed8-b857-29e5b379d74d.jpeg
+![Labelled Diagram: Home Printer Connection](b3bb0b69-acba-4ed8-b857-29e5b379d74d.jpeg)
 Explanation:
 
 A home printer can connect to a laptop or PC through a USB cable or Wi-Fi.
