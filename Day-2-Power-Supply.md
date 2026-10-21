@@ -18,7 +18,9 @@ B. Two devices that use UPS (Uninterruptible Power Supply)
 2. Wi-Fi Router: A UPS keeps the router running during a power interruption so that the internet connection can remain available, provided the network service itself is still active.
 
 Task 2: Diagram of a Typical PC SMPS
+## Task 2: Diagram of a Typical PC SMPS
 
+![SMPS Internal Components](097E8A95-DCF2-4D3F-BE3E-75FE7C1110E6.png)
 Main internal components and their functions
 
 1. AC Input: Receives alternating current from the mains electricity supply.
