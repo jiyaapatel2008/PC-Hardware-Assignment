@@ -16,9 +16,9 @@ Steps
 
 Observations
 
-* Operating System: [Enter your Windows version]
-* Processor: [Enter your processor details]
-* Installed RAM: [Enter your RAM details]
+*  Operating System: macOS Sequoia 15.3
+* Processor: Aplle M3
+* Installed RAM: 16GB
 
 Evidence: Attach a screenshot of System Information.
 Task 1: System Information Evidence (MacBook)
